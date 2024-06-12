@@ -1,4 +1,4 @@
-<img src="https://github.com/euvii/euvii/blob/main/banner.jpeg?raw=true" width="100%"/>
+<img src="https://github.com/euvii/euvii/blob/main/ok.jpeg?raw=true" width="100%"/>
 
 > ## **Note**
 ### i dont have time to text look at people visit my profile ![visitors](https://komarev.com/ghpvc/?username=euvii)
