@@ -1,4 +1,4 @@
-<img src="https://discord.c99.nl/widget/theme-5/702848671540314133.png" width="75%"/>
+<img src="https://i.pinimg.com/736x/65/87/29/658729cc62f797a07e059ef2ae2b1ec4.jpg" width="100%"/>
 
 > ## **Note**
 ### i dont have time to text look at people visit my profile ![visitors](https://komarev.com/ghpvc/?username=euvii)
