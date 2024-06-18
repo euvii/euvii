@@ -10,4 +10,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-E3E3E3?style=flat&logo=typescript&logoColor=0074c2)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E3E3E3?style=flat&logo=mongodb&logoColor=4DB33D)
 
-<img src="https://discord.c99.nl/widget/theme-5/702848671540314133.png">
+<img src="https://discord.c99.nl/widget/theme-4/702848671540314133.png">
