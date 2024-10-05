@@ -1,6 +1,6 @@
 
 > ## **Note**
-### look how many people visit my profile => ![visitors](https://komarev.com/ghpvc/?username=euvii&style=flat&color=111111&label=visitors)
+### how many people visit my profile => ![visitors](https://komarev.com/ghpvc/?username=euvii&style=flat&color=111111&label=visitors)
 
 
 > ## **program languages i use**
