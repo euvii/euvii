@@ -13,6 +13,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=euvii&show_icons=fales&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=euvii&show_icons=false&theme=dark&bg_color=010101)
 
 <img src="https://discord.c99.nl/widget/theme-4/702848671540314133.png">
