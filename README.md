@@ -23,7 +23,7 @@ Just a programmer. Mostly TypeScript, JavaScript, and Python.
 ### Runtimes & tools
 
 <p><img alt="Node.js" src="https://img.shields.io/badge/Node.js-151b23?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" /> <img alt="Bun" src="https://img.shields.io/badge/Bun-151b23?style=for-the-badge&amp;logo=bun&amp;logoColor=F9F1E1" /></p>
-<p><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-151b23?style=for-the-badge&amp;logo=archlinux&amp;logoColor=1793D1" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-151b23?style=for-the-badge&amp;logo=github&amp;logoColor=F0F6FC" /></p>
+<p><img alt="GitHub" src="https://img.shields.io/badge/GitHub-151b23?style=for-the-badge&amp;logo=github&amp;logoColor=F0F6FC" /></p>
 
 ### Discord
 
